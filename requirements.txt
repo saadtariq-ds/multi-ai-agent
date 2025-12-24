@@ -1,0 +1,10 @@
+python-dotenv==1.1.1
+langchain==0.3.27
+langchain-groq==0.3.7
+langchain-community==0.3.28
+langchain-tavily==0.2.11
+uvicorn==0.40.0
+fastapi==0.127.0
+pydantic==2.12.5
+streamlit==1.52.2
+langgraph==0.6.7
